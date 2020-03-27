@@ -1,4 +1,4 @@
-# Metody obliczeniowe w nauce itechnice
+# Metody obliczeniowe w nauce i technice
 ## Semestr 4
 Pełne rozwiązania zadań.
 
