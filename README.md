@@ -12,6 +12,10 @@ Pełne rozwiązania zadań z laboratoriów.
 7. Automaty komórkowe - modelowanie epidemii (Python)
 8. Algebra liniowa - faktoryzacja macierzy
 
+### Interaktywne Demonstracje
+9. Fraktale IFS - [program na shinyapps.io](https://jck-en.shinyapps.io/IFS_generator/)
+10. Akraktor Lorenza - [program na shinyapps.io](https://jck-en.shinyapps.io/lorenz/)
+
 Jeżeli się *inspirujesz*, czyń to z głową ;-)
 
 ---
