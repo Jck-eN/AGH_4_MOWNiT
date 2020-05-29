@@ -1,0 +1,11 @@
+.MathJax_Display{
+	margin: 0; !important
+}
+
+input[type="number"] {
+	height:30px;
+}
+
+#fractal{
+  height: 100px; !important
+}

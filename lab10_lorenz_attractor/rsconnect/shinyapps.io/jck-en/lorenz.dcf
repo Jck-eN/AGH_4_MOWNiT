@@ -1,0 +1,12 @@
+name: lorenz
+title: lorenz
+username:
+account: jck-en
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2376856
+bundleId: 3204522
+url: https://jck-en.shinyapps.io/lorenz/
+when: 1590757303.88184
+asMultiple: FALSE
+asStatic: FALSE
